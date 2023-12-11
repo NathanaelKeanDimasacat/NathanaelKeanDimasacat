@@ -6,9 +6,10 @@ I am Nathanael Kean Dimasacat, a passionate coder with a knack for database mana
 
 ## Education
 
+## Education 🎓
 - **BS Information Technology**
-  New Era University
-  2021 - Present
+  - *New Era University*
+  - *2021-Present*
 
 ## Certifications
 
