@@ -4,8 +4,6 @@
 
 I am Nathanael Kean Dimasacat, a passionate coder with a knack for database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting coding adventure ever since.
 
-## Education
-
 ## Education 🎓
 - **BS Information Technology**
   - *New Era University*
